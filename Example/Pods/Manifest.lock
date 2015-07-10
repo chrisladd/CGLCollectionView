@@ -1,0 +1,14 @@
+PODS:
+  - CGLCollectionView (0.1.0)
+
+DEPENDENCIES:
+  - CGLCollectionView (from `../`)
+
+EXTERNAL SOURCES:
+  CGLCollectionView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CGLCollectionView: a2ada1f4647c037d52d2cf7e614778515c095c5e
+
+COCOAPODS: 0.35.0
